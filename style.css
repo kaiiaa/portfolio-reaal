@@ -205,11 +205,11 @@ span{
     }
     61%,
     80%{
-        content: "Bordadeira";
+        content: "Estudante de informática";
     }
     81%,
     100%{
-        content: "Chocheteira";
+        content: "Artista digital";
     }
 }
 @keyframes typing{
